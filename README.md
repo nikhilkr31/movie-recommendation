@@ -1,2 +1,2 @@
 # movie-recommendation
-Implementation of a movie recommendation system using collaboarative filtering, implemented in PyTorch. 
+Implementation of a movie recommendation system using the [MovieLens 100K](https://grouplens.org/datasets/movielens/100k/) dataset implementing collaboarative filtering, implemented in PyTorch. 
